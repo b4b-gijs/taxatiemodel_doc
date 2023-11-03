@@ -63,7 +63,7 @@ Dit type AVM wordt na marktonderzoek voorbereid, en wordt vervolgens herhaaldeli
  ### Bronnen:<br>
 - [*Standard on Automated Valuation Models (AVMS)*, International Association of Assessing Officers](https://www.iaao.org/media/standards/Standard_on_Automated_Valuation_Models.pdf)
 
- ## [VOORBEELDEN](voorbeelden.md)
+ ## [VOORBEELD-MODELLEN](voorbeelden.md)
 
 De volgende voorbeeld-modellen lijken realistische regressiecoëfficienten te hebben, en zijn allicht goede referenties voor ons eigen model:
 - [*Een 'Level Playing Field' op de Nederlandse Woningmarkt?*, M. van den Bosch](https://theses.ubn.ru.nl/server/api/core/bitstreams/1c4258fc-5354-4205-bbe5-04032deca2e5/content)
