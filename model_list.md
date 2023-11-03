@@ -27,11 +27,13 @@ graph LR
 |-|-
 |1.|Deze modellen zijn sterk afhankelijk van geaggregeerde informatie, met name op geografisch vlak. 
 |2.|Hedonische modellen gaan er vanuit dat alle eigenschappen die een significante bijdrage leveren aan de daadwerkelijke waarde in het model zijn meegenomen. Indien niet-meegenomen attributen ook een significant effect hebben op de waardering, dan leidt dit tot een lagere nauwkeurigheid van het model
-|3.|De afhankelijkheid van de modelwaarde op een attribuut is niet altijd onafhankelijk van de overige attributen 
-|4.|Het is van tevoren niet duidelijk te bepalen hoe de modelwaarde afhangt van de kwantiteit en kwaliteit van de attributen 
+|3.|Daarnaast wordt ook de aanname gemaakt dat de _potentiële kopers_ volledige kennis van al deze eigenschappen, en ook wat de invloed van alle attributen is op de leefervaring
+|4.|De afhankelijkheid van de modelwaarde op een attribuut is niet altijd onafhankelijk van de overige attributen, ook is het mogelijk dat bepaalde attributen altijd tegelijk voorkomen waardoor de invloed van deze attributen niet onafhankelijk onderzocht kunnen worden 
+|5.|Het is van tevoren niet duidelijk te bepalen hoe de modelwaarde afhangt van de kwantiteit en kwaliteit van de attributen 
 
  ### Bronnen:<br>
 - [*Who performs better? AVMs vs hedonic models*, A. Valier](https://www.emerald.com/insight/content/doi/10.1108/JPIF-12-2019-0157/full/pdf?title=who-performs-better-avms-vs-hedonic-models)
+- [*Hedonic Price Method*, CBA Builder](https://www.cbabuilder.co.uk/Quant5.html)
 
  ## [COMPARABLES BASED AVMS](AVM.md)
 
