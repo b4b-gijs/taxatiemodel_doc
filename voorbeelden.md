@@ -25,7 +25,7 @@ Hieruit is vervolgens een steekproef genomen van 19.617 woningen. Deze sample-si
 - Div. locatie-eigenschappen
 
  ### Attributen uit [S. Damen, A. Vandesande, K. Bomans et. al.](https://libstore.ugent.be/fulltxt/RUG01/002/062/177/RUG01-002062177_2013_0001_AC.pdf) (Tabel 17)
-
+Uit de tekst kan afgeleid worden dat de sample-size waarschijnlijk rond de 30.000 heeft gelegen (ERA en Zimmo-databanken samen, na filteren op volledigheid data)
 
 - Verkoopprijs
 - Woonoppervlakte
