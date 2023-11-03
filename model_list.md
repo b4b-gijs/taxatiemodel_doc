@@ -1,7 +1,7 @@
 
  # MODELLEN PRO/CONS-LIJST
 
-```Mermaid
+```mermaid
 graph LR
     tx(Taxatiemodel) --- hm(Hedonisch model)
     tx --- avm(AVM)
