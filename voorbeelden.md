@@ -6,6 +6,7 @@
  ### Attributen uit [M. van den Bosch](https://theses.ubn.ru.nl/server/api/core/bitstreams/1c4258fc-5354-4205-bbe5-04032deca2e5/content) (bijlage 4+)
 De sample-grootte van de regressie-analyse is niet geheel duidelijk uit de tekst te halen, maar ik vermoed dat deze 2.950.124 of 7.277.812 is. 
 Hieruit is vervolgens een steekproef genomen van 19.617 woningen. Deze sample-size is naar mijn idee zeker groot genoeg om realistische regressie-coëfficiënten te vinden.
+Deze bron gaat echter wel over huur, en is dus hierdoor niet direct met onze situatie te vergelijken.
 
 - Regio
 - Eigendom
