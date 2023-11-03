@@ -68,6 +68,7 @@ Dit type AVM wordt na marktonderzoek voorbereid, en wordt vervolgens herhaaldeli
 De volgende voorbeeld-modellen lijken realistische regressiecoëfficienten te hebben, en zijn allicht goede referenties voor ons eigen model:
 - [*Een 'Level Playing Field' op de Nederlandse Woningmarkt?*, M. van den Bosch](https://theses.ubn.ru.nl/server/api/core/bitstreams/1c4258fc-5354-4205-bbe5-04032deca2e5/content)
 - [*Onderzoek naar de Effecten van de Erfgoedkarakteristieken van Woningen en hun Omgeving op de Marktprijzen van Woningen in Vlaanderen*, S. Damen, A. Vandesande, K. Bomans et. al.](https://libstore.ugent.be/fulltxt/RUG01/002/062/177/RUG01-002062177_2013_0001_AC.pdf)
+- [*determinants of house prices in turkey hedonic regression versus artificial neural network*, H. Selim](https://www.sciencedirect.com/science/article/abs/pii/S0957417408000596)
 
 De volgende voorbeelden lijken niet geheel correct in de gevonden regressiecoëfficienten:
 - [*Een Hedonische Prijsanalyse van Eigenaarswoningen*, F. Vastmans](https://archief.steunpuntwonen.be/Documenten_2012-2015/Onderzoek_Werkpakketten/WP9-hedonische-prijsanalyse-van.pdf)
