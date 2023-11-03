@@ -13,7 +13,7 @@ De unieke eigenschap van AVMs is dat de waardeschatting gebaseerd is op een wisk
 In het geval van AVMs zijn er meerdere verschillende wiskundige achterliggende modellen mogelijk, waardoor het onmogelijk is om een algemene vorm van een vergelijking tussen de marktwaarde en de attributen te geven. 
 
 Echter zijn er wel methodes die vaker gebruikt worden. Zo is een regelmatig voorkomend model het (nonlineaire) hybride model, waarbij de geschatte waarde *K* gegeven wordt door een vergelijking van de vorm
- $$
-K=p^{algemeen}\cdot\left[\sum_t\left[\prod_x\left(p_x^{(t)}\right)\sum_y\left(k_y^{(t)}\right)\right]\right]
- $$
+```math
+K=p^{algemeen}\cdot\left[\sum_t\left[\prod_x\left(p_x^{(t)}\right)\sum_y\left(k_y^{(t)}\right)\right]\rimht]
+```
  waarbij de *p<sup>(t)* wegingsfactoren van de verschillende attribuutgroepen zijn, *p<sup>algemeen* een algemene normalisatiefactor is die corrigeert voor het geval dat de som van wegingen anders dan 1 is, en de *k<sup>(t)* de waardetoevoegingen zijn van de verscheidene attributen.
