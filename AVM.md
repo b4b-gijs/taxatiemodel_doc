@@ -1,7 +1,7 @@
 
  # Comparables Based Automated Valuation Models (AVMs)
 
-[terug](model_list.md)
+[terug](README.md)
 
  ### Definitie
 

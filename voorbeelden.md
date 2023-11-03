@@ -1,7 +1,7 @@
 
  # Samenvatting referentie-attributen
 
-[terug](model_list.md)
+[terug](README.md)
 
  ### Attributen uit [M. van den Bosch](https://theses.ubn.ru.nl/server/api/core/bitstreams/1c4258fc-5354-4205-bbe5-04032deca2e5/content) (bijlage 4+)
 

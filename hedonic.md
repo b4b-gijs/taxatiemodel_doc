@@ -1,7 +1,7 @@
 
 # Hedonische regressie
 
-[terug](model_list.md)
+[terug](README.md)
 
  ### Definitie
 
