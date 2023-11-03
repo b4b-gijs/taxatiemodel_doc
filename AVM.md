@@ -14,6 +14,6 @@ In het geval van AVMs zijn er meerdere verschillende wiskundige achterliggende m
 
 Echter zijn er wel methodes die vaker gebruikt worden. Zo is een regelmatig voorkomend model het (nonlineaire) hybride model, waarbij de geschatte waarde *K* gegeven wordt door een vergelijking van de vorm
 ```math
-K=p^{algemeen}\cdot\left[\sum_t\left[\prod_x\left(p_x^{(t)}\right)\sum_y\left(k_y^{(t)}\right)\right]\rimht]
+K=p^{algemeen}\cdot\left[\sum_t\left[\prod_x\left(p_x^{(t)}\right)\sum_y\left(k_y^{(t)}\right)\right]\right]
 ```
  waarbij de *p<sup>(t)* wegingsfactoren van de verschillende attribuutgroepen zijn, *p<sup>algemeen* een algemene normalisatiefactor is die corrigeert voor het geval dat de som van wegingen anders dan 1 is, en de *k<sup>(t)* de waardetoevoegingen zijn van de verscheidene attributen.
