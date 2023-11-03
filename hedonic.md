@@ -16,10 +16,10 @@ De coëfficienten worden bepaald door prijsverschillen te analyseren tussen woni
  ### Berekening marktwaarde
 
 Over het algemeen word de geschatte prijs *K* in Hedonische modellen gegeven door een functie van de toegevoegde waarde *k<sub>i</sub>* van attribuut *i* in de vorm
-$$
+```math
 K=\sum_ip_ik_i+\varepsilon,
-$$
+```
 waar gesommeerd wordt over het product van de waarde en de relatieve weging *p<sub>i</sub>* per attribuut. De fouten die niet verklaard worden, welke ontstaan door onder andere schattingsfouten, worden samengenomen in de 'error'-term
-$$
+```math
 \varepsilon.
-$$
+```
