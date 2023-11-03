@@ -40,7 +40,8 @@ Uit de tekst kan afgeleid worden dat de sample-size waarschijnlijk rond de 30.00
 - Luxe afwerking
 - Wijk, regio, afstanden tot...
 
-
+---
+```
  ### Attributen uit de niet-realistische referentie-modellen
 
  #### Algemeen
@@ -68,3 +69,4 @@ Uit de tekst kan afgeleid worden dat de sample-size waarschijnlijk rond de 30.00
  #### Appartement
 
 - Lift, Verdieping
+```
