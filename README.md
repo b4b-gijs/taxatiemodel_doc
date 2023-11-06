@@ -12,7 +12,7 @@ graph LR
 
  ### Algemene bronnen:<br>
 - [*European Standards for Statistical Valuation Methods for Residential Properties* 3rd Edition](https://www.europeanavmalliance.org/files/eaa/Downloads/EAA_Standards_3rd_Edition.pdf)
-
+- [*The Next Generation of AVMs*, C. A. Lipscomb](https://www.iaao.org/media/Topics/AVMs/FE_March_Lipscomb.pdf)
 
 
  ## [HEDONISCHE MODELLEN](hedonic.md)
